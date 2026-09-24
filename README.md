@@ -18,7 +18,7 @@ Currently interested in:
 - Turning random ideas into real things.
 - Infrastructure Design, DevOps, Hardware
 
-Work at **[Fernly](https://github.com/FernlyHQ)** 🌿. 
+Work at **[Fernly](https://github.com/FernlyHQ)** - Ideas grow here. 🌿
 
 When I'm not coding, I'm usually with family, drinking coffee, organising line dance events or thinking about another project I probably don't need.
 
