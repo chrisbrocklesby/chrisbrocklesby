@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Chris 👋🏻
 
-<!--
-**chrisbrocklesby/chrisbrocklesby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder, CTO, Software engineer, systems thinker, tinkerer and occasional starter of too many side projects.
 
-Here are some ideas to get you started:
+Based in **Māpua, New Zealand 🇳🇿**  
+Originally from **Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Builder of useful things with software, APIs, automation, hardware and whatever else looks interesting at the time.
+
+Mostly working with **Go, JavaScript, TypeScript, Postgres, Docker and Cloudflare**.
+
+Currently interested in:
+
+- SaaS products.
+- Automation and integrations.
+- AI that actually does something useful.
+- ESP32/Logic Boards, IoT and connected hardware.
+- Turning random ideas into real things.
+- Infrastructure Design, DevOps, Hardware
+
+Work at **[Fernly](https://github.com/FernlyHQ)**.
+
+When I'm not coding, I'm usually with family, drinking coffee, organising line dance events or thinking about another project I probably don't need.
+
+🌐 [chrisbrocklesby.com](https://www.chrisbrocklesby.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/chrisbrocklesby)
